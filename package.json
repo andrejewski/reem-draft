@@ -1,0 +1,25 @@
+{
+  "name": "reem-draft",
+  "version": "0.0.1",
+  "description": "drafting plugin for reem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reem",
+    "draft",
+    "drafting",
+    "reem-plugin"
+  ],
+  "author": "Chris Andrejewski",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrejewski/reem-draft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrejewski/reem-draft/issues"
+  },
+  "homepage": "https://github.com/andrejewski/reem-draft"
+}
